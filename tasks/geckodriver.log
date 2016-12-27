@@ -1,0 +1,28 @@
+1482851797133	geckodriver	INFO	Listening on 127.0.0.1:35906
+1482851798085	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zx9XVdlvcY4W
+1482851798086	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482851798110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45739
+1482851805117	Marionette	INFO	Listening on port 45739
+JavaScript error: https://www.olx.ua/, line 3434: ReferenceError: _adblock is not defined
+JavaScript error: https://www.olx.ua/, line 25: TypeError: window.top.ads is undefined
+JavaScript error: https://www.olx.ua/, line 64: TypeError: window.top is null
+
+(firefox:377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482851815898	geckodriver	INFO	Listening on 127.0.0.1:60785
+1482851816898	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.J0brsYFqziUD
+1482851816899	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482851816902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34973
+1482851818243	Marionette	INFO	Listening on port 34973
+JavaScript error: https://www.olx.ua/, line 3370: ReferenceError: _adblock is not defined
+JavaScript error: https://www.olx.ua/, line 25: TypeError: window.top.ads is undefined
+JavaScript error: https://www.olx.ua/, line 64: TypeError: window.top is null
+
+(firefox:494): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:494): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:494): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
