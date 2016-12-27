@@ -5,7 +5,7 @@ from temp_email.temp_email import TempEmail
 from testlogic import TestLogic
 
 
-class MyTestCase(TestLogic):
+class TaskOne(TestLogic):
 
     @check_failed
     def test_make_advertisement_for_existing_user(self):
