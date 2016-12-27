@@ -61,7 +61,7 @@ class BasePage(object):
 
     def close_sms_verification(self):
         old_time = self.waiting_time
-        self.driver.switch_to.active_element()
+        self.driver.switch_to_active_element()
         self.waiting_time = 3
         try:
             self.click_on_the_object(self.sms_verification_close_xpath)
