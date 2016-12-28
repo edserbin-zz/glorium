@@ -1,0 +1,4 @@
+pkg-resources==0.0.0
+requests==2.12.4
+selenium==3.0.2
+temp-mail==0.2

@@ -9,7 +9,7 @@ class TaskOne(TestLogic):
 
     @check_failed
     def test_make_advertisement_for_existing_user(self):
-        user_info = {'email': 'edserbintest1@gmail.com',
+        user_info = {'email': 'edserbintest2@gmail.com',
                      'password': 'password1006'}
         advertisement_info = {'title': 'Test title',
                               'target': ['7', 'Строительство / ремонт / уборка', 'Cтроительные услуги'],
