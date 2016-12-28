@@ -3,11 +3,13 @@
 <p>pyvenv env</p>
 <p> активируейте виртуальное окружение</p>
 <p> source env/bin/activate</p>
+<p> Обновите при необходимости pip</p>
+<p> pip install --upgrade pip</p>
 <p> Установите требования:</p>
 <p> pip install -r requirements.txt</p>
 <p></p>
 <p>для удобства тесты собраны в testsuite, для запуска которого необходимо находится в корневой папке проекта и запустить его</p>
-<p>python testsuite</p>
+<p>python testsuite.py</p>
 <p></p>
 <p> Тесты для первого задания находятся в tasks/taskone</p>
 <p> В этом  файле находятся два теста:</p>
